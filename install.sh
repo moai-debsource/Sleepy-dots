@@ -21,7 +21,7 @@ func_main(){
   yay -S grimblast wl-clipboard brave-bin
   echo "[INFO] Dependencies installed.."
   echo "[INFO] Installing grub theme.."
-  git clone --depth=1 https://github.com/uiriansan/LainGrubTheme && cd LainGrubTheme && ./install.sh && ./patch_entries.sh
+  git clone --depth=1 https://github.com/uiriansan/LainGrubTheme && cd LainGrubTheme && ./install.sh && ./patch_entries.sh; cd ..; rm -rf LainGrubTheme
   echo "[INFO] Grub theme installed.."
   echo "[INFO] Installing cursor.."
   mkdir -p ~/.icons
