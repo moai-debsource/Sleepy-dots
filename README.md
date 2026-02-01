@@ -10,5 +10,5 @@
 ### Run this command in your terminal or tty to install dotfiles!
 
 ```
-git clone https://github.com/moai-debsource/Sleepy-dots; cd Sleepy-dots; chmod +x install.sh; sudo bash ./install.sh
+git clone https://github.com/moai-debsource/Sleepy-dots; cd Sleepy-dots; chmod +x install.sh; bash ./install.sh
 ```
