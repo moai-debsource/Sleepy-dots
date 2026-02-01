@@ -2,6 +2,7 @@
 ### An application to install a dotfile setup for any arch linux install.
 
 > ![NOTE]
+> 
 > This application is to be used on [Arch Linux](https://archlinux.org/) and it's TTY or Terminals with no configuration and or .icons directory.
 
 ## Installation
