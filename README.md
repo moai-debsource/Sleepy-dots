@@ -1,2 +1,22 @@
 # Sleepy-dots
-Dotfile installer written in bash script intended for arch linux.
+### An application to install a dotfile setup for any arch linux install.
+
+> ![WARNING]
+>
+> This application is to be used on [Arch Linux](https://archlinux.org/) and it's TTY or Terminals.
+
+## Installation
+
+### Run this command in your terminal or tty.
+
+Clone the repository.
+
+```git clone https://github.com/moai-debsource/Sleepy-dots; cd Sleepy-dots```
+
+Make the installation script executable.
+
+```chmod +x install.sh```
+
+Run the installer script.
+
+```./install.sh```
